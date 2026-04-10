@@ -28,3 +28,6 @@
 # Pre Alpha Changelog v1.1.03
 - Fix Bug
 Note: Animasi masih bug jangan dipakai dulu
+# Pre Alpha Changelog v1.1.04
+- Update Main Menu (Animations)
+- Adding Feedback / Report panel
