@@ -29,5 +29,5 @@
 - Fix Bug
 Note: Animasi masih bug jangan dipakai dulu
 # Pre Alpha Changelog v1.1.04
-- Update Main Menu (Animations)
+- Update Main Menu (Animations & Changelog Update)
 - Adding Feedback / Report panel
